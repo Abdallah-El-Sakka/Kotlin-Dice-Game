@@ -1,1 +1,1 @@
-# This is a simple dice game using kotlin oop
+# A simple dice game using kotlin oop
